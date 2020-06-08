@@ -1,0 +1,1 @@
+const ALL_MUSIC = 'allmusic';
